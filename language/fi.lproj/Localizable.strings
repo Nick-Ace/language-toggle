@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  language
+
+  Created by Nikesh Hyanju on 10/28/17.
+  Copyright © 2017 zlesa. All rights reserved.
+*/
+KUserName = "UserName";
+KPassword ="Password";
+KName = "Name:";
+KPwd = "Pwd:";
+KLogin = "Log In";
